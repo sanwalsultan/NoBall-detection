@@ -4,3 +4,6 @@ mediapipe
 numpy
 pandas
 ffmpeg-python
+opencv-python-headless
+Pillow
+
